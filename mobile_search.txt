@@ -1,0 +1,41 @@
+! FireFox
+! Google News 検索
+! google.com##div.ZINbbc:has(a[href*=""])
+google.com##div.ZINbbc:has(a[href*="www.investasian.jp"])
+google.com##div.ZINbbc:has(a[href*="www.omochaya3.com"])
+google.com##div.ZINbbc:has(a[href*="label-online.jp"])
+google.com##div.ZINbbc:has(a[href*="moviebankonline.jp"])
+google.com##div.ZINbbc:has(a[href*="kamome.bz"])
+google.com##div.ZINbbc:has(a[href*="vocaloguide.com"])
+google.com##div.ZINbbc:has(a[href*="yurui.jp"])
+google.com##div.ZINbbc:has(a[href*="mobilanyheter.net"])
+google.com##div.ZINbbc:has(a[href*="www.dailysunny.com"])
+google.com##div.ZINbbc:has(a[href*="mujihi.jp"])
+google.com##div.ZINbbc:has(a[href*="securetpnews.info"])
+google.com##div.ZINbbc:has(a[href*="murphyshockeylaw.net"])
+google.com##div.ZINbbc:has(a[href*="hanjohanjo.jp"])
+google.com##div.ZINbbc:has(a[href*="thehack.jp"])
+google.com##div.ZINbbc:has(a[href*="myanmarnews.jp"])
+google.com##div.ZINbbc:has(a[href*="gear-net.com"])
+google.com##div.ZINbbc:has(a[href*="extrain.info"])
+
+! Chromium
+! Google News 検索
+! google.com##[href*=""] > .HHTWyf
+google.com##[href*="www.investasian.jp"] > .HHTWyf
+google.com##[href*="www.omochaya3.com"] > .HHTWyf
+google.com##[href*="label-online.jp"] > .HHTWyf
+google.com##[href*="moviebankonline.jp"] > .HHTWyf
+google.com##[href*="kamome.bz"] > .HHTWyf
+google.com##[href*="vocaloguide.com"] > .HHTWyf
+google.com##[href*="yurui.jp"] > .HHTWyf
+google.com##[href*="mobilanyheter.net"] > .HHTWyf
+google.com##[href*="www.dailysunny.com"] > .HHTWyf
+google.com##[href*="mujihi.jp"] > .HHTWyf
+google.com##[href*="securetpnews.info"] > .HHTWyf
+google.com##[href*="murphyshockeylaw.net"] > .HHTWyf
+google.com##[href*="hanjohanjo.jp"] > .HHTWyf
+google.com##[href*="thehack.jp"] > .HHTWyf
+google.com##[href*="myanmarnews.jp"] > .HHTWyf
+google.com##[href*="gear-net.com"] > .HHTWyf
+google.com##[href*="extrain.info"] > .HHTWyf
