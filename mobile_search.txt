@@ -1,3 +1,5 @@
+! Title: Mobile Search Blocklist
+
 ! FireFox
 ! Google News 検索
 ! google.com##div.ZINbbc:has(a[href*=""])
@@ -14,13 +16,12 @@ google.com##div.ZINbbc:has(a[href*="mujihi.jp"])
 google.com##div.ZINbbc:has(a[href*="securetpnews.info"])
 google.com##div.ZINbbc:has(a[href*="murphyshockeylaw.net"])
 google.com##div.ZINbbc:has(a[href*="hanjohanjo.jp"])
-! google.com##div.ZINbbc:has(a[href*="thehack.jp"])
+google.com##div.ZINbbc:has(a[href*="thehack.jp"])
 google.com##div.ZINbbc:has(a[href*="myanmarnews.jp"])
 google.com##div.ZINbbc:has(a[href*="gear-net.com"])
 google.com##div.ZINbbc:has(a[href*="extrain.info"])
 
-! Chromium
-! Google News 検索
+! Google Search Fixer
 ! google.com##g-card:has(a[href*=""])
 google.com##g-card:has(a[href*="www.investasian.jp"])
 google.com##g-card:has(a[href*="www.omochaya3.com"])
