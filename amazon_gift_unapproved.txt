@@ -1,0 +1,17 @@
+! Title: Amazonギフト券未承認
+! Homepage: https://github.com/yulog/adblock_filter
+
+||amaten.com^
+||amaoku.jp^
+||giftissue.com^
+||gifttrade.jp^
+||amaqlo.com^
+||giftapple.jp^
+||arujan.biz^
+||www.shinei-gift.com^
+||www.syoppingwaku-genkinka.net^
+||www.gift-direct.com^
+||beterugift.jp^
+||amaprime.net^
+||www.asn-g.net^
+||keitaigenkinka.com^
