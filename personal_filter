@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/yulog/adblock_filter
 
 ! 機械翻訳/転載コンテンツ、ドメイン転用
-! 主にGoogle News検索の
+! 主にGoogle News検索のノイズ
 ||www.omochaya3.com^
 ||label-online.jp^
 ||hanjohanjo.jp^
@@ -23,6 +23,9 @@
 ||japan-culture-labo.com^
 ||soccernurds.com^
 ||music-snap.com^
+||www.tenasia.jp^
+||www.3ajlnews.com^
+||www.su-gomori.com^
 
 ! Stack Overflowの機械翻訳/転載
 ||www.it-swarm-ja.com^
