@@ -1,0 +1,28 @@
+! Title: 個人用フィルタ
+! Homepage: https://github.com/yulog/adblock_filter
+
+! 機械翻訳/転載コンテンツ、ドメイン転用
+! 主にGoogle News検索の
+||www.omochaya3.com^
+||label-online.jp^
+||hanjohanjo.jp^
+||www.investasian.jp^
+||www.moviebankonline.jp^
+||photopress.jp^
+||mobilanyheter.net^
+||mujihi.jp^
+||securetpnews.info^
+||vocaloguide.com^
+||yurui.jp^
+||gear-net.com^
+||findstar-news.com^
+||thehack.jp^
+||murphyshockeylaw.net^
+||www.extrain.info^
+||myanmarnews.jp^
+||japan-culture-labo.com^
+||soccernurds.com^
+||music-snap.com^
+
+! Stack Overflowの機械翻訳/転載
+||www.it-swarm-ja.com^
