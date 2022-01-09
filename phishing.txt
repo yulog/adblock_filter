@@ -2,3 +2,4 @@
 ! Homepage: https://github.com/yulog/adblock_filter
 
 ||www.gochitabi.site^
+||www.agoranotizia.it^
