@@ -2,5 +2,18 @@
 ! Homepage: https://github.com/yulog/adblock_filter
 
 ||www.gochitabi.site^
-||www.agoranotizia.it^
 ||dramatically.huntmet.top^
+||elhourriya.net^
+||www.elhourriya.net^
+||www.iforex.jpn.com^
+||virtualization.com^
+||lensametro.com^
+||theboxingtribune.com^
+||popu.zoaya.xyz^
+||lomejordelboxeo.com^
+||www.ukclubsport.com^
+||www.clicfolha.com.br^
+||soprotivlenie.org^
+||carlislemosquito.org^
+||www.carlislemosquito.org^
+
