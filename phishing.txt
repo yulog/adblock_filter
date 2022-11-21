@@ -60,3 +60,7 @@
 ||omasports.com^
 ||newsondot.com^
 ||revistafactual.com.br^
+||cte.uerj.br^
+||caumt.gov.br^
+||qha.com.tr^
+||informe3.com^
